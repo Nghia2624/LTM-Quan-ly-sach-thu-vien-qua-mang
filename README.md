@@ -1,4 +1,3 @@
-# 📚 Hệ thống Quản lý Sách - Thư viện qua Mạng
 
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
@@ -6,7 +5,7 @@
     </a>
 </h2>
 <h2 align="center">
-   NETWORK PROGRAMMING PROJECT
+   HỆ THỐNG QUẢN LÝ SÁCH - THƯ VIỆN QUA MẠNG
 </h2>
 
 <div align="center">
