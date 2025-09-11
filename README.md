@@ -1,4 +1,4 @@
-﻿# 📚 Hệ thống Quản lý Sách - Thư viện qua Mạng
+# 📚 Hệ thống Quản lý Sách - Thư viện qua Mạng
 
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
@@ -96,48 +96,6 @@
 - **Observer Pattern**: GUI updates theo real-time data
 - **Thread Pool Pattern**: Quản lý multiple client connections
 
-## 🚀 Tính năng chính
-
-### 📚 Quản lý Sách (Book Management)
-```
-🔹 CRUD Operations:
-   ├── ➕ Thêm sách mới (Add Book)
-   ├── ✏️ Sửa thông tin sách (Edit Book)  
-   ├── 🗑️ Xóa sách (Delete Book)
-   └── 📋 Hiển thị danh sách (List All Books)
-
-🔹 Advanced Features:
-   ├── 🔍 Tìm kiếm theo từ khóa (Search)
-   ├── 🏷️ Lọc theo thể loại (Filter by Category)
-   ├── 👤 Lọc theo tác giả (Filter by Author)
-   └── 📊 Thống kê trạng thái sách
-```
-
-### 📖 Quản lý Mượn/Trả (Borrow/Return Management)  
-```
-🔹 Borrow Operations:
-   ├── 📖 Mượn sách (Borrow Book)
-   ├── 📚 Trả sách (Return Book)
-   ├── 📈 Theo dõi trạng thái real-time
-   └── 🔄 Cập nhật status: Available ↔ Borrowed
-```
-
-### 🌐 Network & Communication
-```
-🔹 TCP Server Features:
-   ├── 🔀 Multi-threaded server (Thread Pool)
-   ├── 🔐 Thread-safe operations (ReadWriteLock)
-   ├── ⚡ Concurrent client handling (Max 50 clients)
-   ├── 📡 Port 12345 (Configurable)
-   └── 🔄 Auto-reconnection support
-
-🔹 Client Features:
-   ├── 🖥️ Java Swing GUI
-   ├── 🔌 Auto-connect to server
-   ├── ⚡ Real-time data synchronization
-   └── 📱 User-friendly interface
-```
-
 ## 📁 Cấu trúc Project
 
 ```
@@ -161,21 +119,6 @@
 - ✅ **Java 8+** (đã test với OpenJDK 21)
 - ✅ **Windows OS** với PowerShell  
 - ✅ **Port 12345** available
-
-### 🚀 Quick Start
-```powershell
-# 1. Build project
-.\build.bat
-
-# 2. Start TCP Server (Terminal 1)
-.\run-server.bat
-
-# 3. Start GUI Client (Terminal 2)  
-.\run-client.bat
-
-# 4. Cleanup when done
-.\cleanup.bat
-```
 
 ### 📊 Expected Output
 ```bash
@@ -337,31 +280,9 @@ Request: {RequestType, Object data}  →  Server  →  Response: {Status, String
 | **🔗 Architecture** | TCP Client-Server |
 | **📅 Semester** | 2024-2025 |
 
-</div>
-
-### 📝 Project Summary
-- ✅ **No external libraries**: Custom JSON parser, pure Java implementation
-- ✅ **Thread-safe operations**: ReadWriteLock cho concurrent access
-- ✅ **Cross-platform**: Chạy trên mọi OS có Java 8+
-- ✅ **Sample data**: 16 cuốn sách đa dạng (programming, literature, science)
-- ✅ **Production ready**: Complete với error handling, logging, documentation
-
----
-
 <div align="center">
     <p>© 2025 DaiNam University - Faculty of Information Technology</p>
     <p>All rights reserved.</p>
 </div>
-
-## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
-
-## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-
-## 🚀 3. Các project đã thực hiện
-
-### [Khoá 16](./docs/projects/K16/README.md)
-
-## 📝 4. License
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
