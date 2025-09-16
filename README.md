@@ -109,7 +109,7 @@
 #### 🔍 **Tìm kiếm sách thông minh**
 <div align="center">
   <img src="docs/projects/anhduan/timkiem.png" width="600"/>
-  <p><em>Tìm kiếm real-time theo nhiều tiêu chí: tên sách, tác giả, thể loại</em></p>
+  <p><em>Tìm kiếm theo nhiều tiêu chí: tên sách, tác giả, thể loại</em></p>
 </div>
 
 ---
