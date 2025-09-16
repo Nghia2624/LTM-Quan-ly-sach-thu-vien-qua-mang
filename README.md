@@ -106,7 +106,7 @@
   <p><em>Dialog xác nhận xóa sách với thông tin chi tiết để đảm bảo an toàn</em></p>
 </div>
 
-#### 🔍 **Tìm kiếm sách thông minh**
+#### 🔍 **Tìm kiếm sách**
 <div align="center">
   <img src="docs/projects/anhduan/timkiem.png" width="600"/>
   <p><em>Tìm kiếm theo nhiều tiêu chí: tên sách, tác giả, thể loại</em></p>
