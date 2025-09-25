@@ -219,7 +219,7 @@ java -cp "target/classes;target/lib/*" com.library.gui.LoginForm
 | **📧 Email**             | dnghia9119@gmail.com                     |
 | **🌐 Website cá nhân**     | [dnnghia.vercel.app](https://dnnghia.vercel.app/)             |
 | **Lớp**                 | CNTT 16-03                               |
-| **Năm học**             | 2024-2025                                |
+| **Năm học**             | 2025-2026                                |
 
 ---
 
