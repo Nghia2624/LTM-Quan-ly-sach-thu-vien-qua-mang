@@ -68,8 +68,6 @@
 
 ## 3. 📸 Hình ảnh Demo
 
-> **Lưu ý**: Tất cả ảnh demo được lưu trữ tại thư mục `docs/projects/anhduan/`
-
 ---
 
 ## 👑 CHỨC NĂNG ADMIN
@@ -125,6 +123,13 @@
 
 ## 👤 CHỨC NĂNG USER
 
+### 📝 Đăng ký Tài khoản mới
+
+<div align="center">
+  <img src="docs/projects/anhduan/dangkytaikhoan.png" width="600"/>
+  <p><em>Form đăng ký tài khoản mới với validation đầy đủ cho sinh viên</em></p>
+</div>
+
 ### 🔐 Đăng nhập User
 
 <div align="center">
@@ -151,13 +156,6 @@
 <div align="center">
   <img src="docs/projects/anhduan/muonsach.png" width="700"/>
   <p><em>Giao diện mượn sách với kiểm tra tồn kho và validation nghiệp vụ</em></p>
-</div>
-
-### 📝 Đăng ký Tài khoản
-
-<div align="center">
-  <img src="docs/projects/anhduan/dangkytaikhoan.png" width="600"/>
-  <p><em>Form đăng ký tài khoản mới với validation đầy đủ cho sinh viên</em></p>
 </div>
 
 ---
