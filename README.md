@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   HỆ THỐNG QUẢN LÝ THƯ VIỆN TRỰC TUYẾN
+   HỆ THỐNG QUẢN LÝ SÁCH - THƯ VIỆN QUA MẠNG
 </h2>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 ## 1. 📖 Giới thiệu Đề tài
 
-**Hệ thống Quản lý Thư viện Trực tuyến** là đồ án môn **Lập trình Mạng**, được phát triển bằng Java với kiến trúc TCP Client-Server. Hệ thống sử dụng MongoDB làm cơ sở dữ liệu và giao diện Java Swing hiện đại với FlatLaf, hỗ trợ quản lý sách, người dùng, mượn/trả sách, thống kê báo cáo một cách toàn diện.
+**Hệ thống Quản lý Sách Thư viện qua Mạng** là đồ án môn **Lập trình Mạng**, được phát triển bằng Java với kiến trúc TCP Client-Server. Hệ thống sử dụng MongoDB làm cơ sở dữ liệu và giao diện Java Swing hiện đại với FlatLaf, hỗ trợ quản lý sách, người dùng, mượn/trả sách, thống kê báo cáo một cách toàn diện.
 
 ### ⚡ Tính năng nổi bật:
 
