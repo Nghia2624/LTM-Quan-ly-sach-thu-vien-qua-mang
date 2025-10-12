@@ -76,28 +76,28 @@
 
 <div align="center">
   <img src="docs/projects/anhduan/dangnhapadmin.png" width="600"/>
-  <p><em>Giao diện đăng nhập Admin với validation và modern UI</em></p>
+  <p><em>Giao diện đăng nhập Admin </em></p>
 </div>
 
 ### 📊 Dashboard Admin
 
 <div align="center">
   <img src="docs/projects/anhduan/dashboard.png" width="800"/>
-  <p><em>Dashboard Admin với thống kê tổng quan, biểu đồ và các chỉ số quan trọng</em></p>
+  <p><em>Dashboard Admin với thống kê tổng quan</em></p>
 </div>
 
 ### 📚 Quản lý Sách (Admin)
 
 <div align="center">
   <img src="docs/projects/anhduan/quanlysach.png" width="800"/>
-  <p><em>Quản lý sách với quyền Admin: thêm, sửa, xóa sách và các thao tác CRUD đầy đủ</em></p>
+  <p><em>Quản lý sách với quyền Admin: thêm, sửa, xóa sách </em></p>
 </div>
 
 ### 👥 Quản lý Người dùng (Admin)
 
 <div align="center">
   <img src="docs/projects/anhduan/quanlynguoidung.png" width="800"/>
-  <p><em>Quản lý người dùng: Admin hiển thị đầu tiên, phân quyền và quản lý tài khoản</em></p>
+  <p><em>Quản lý người dùng: phân quyền và quản lý tài khoản</em></p>
 </div>
 
 <div align="center">
@@ -134,14 +134,14 @@
 
 <div align="center">
   <img src="docs/projects/anhduan/dangnhapuser.png" width="600"/>
-  <p><em>Giao diện đăng nhập User với theme tối và link đăng ký tài khoản mới</em></p>
+  <p><em>Giao diện đăng nhập User</em></p>
 </div>
 
 ### 🏠 Trang chủ User
 
 <div align="center">
   <img src="docs/projects/anhduan/trangchu.png" width="800"/>
-  <p><em>Trang chủ User với giao diện thân thiện, hiển thị sách mới và thông tin cá nhân</em></p>
+  <p><em>Trang chủ User với giao diện thân thiện, hiển thị sách mới </em></p>
 </div>
 
 ### 🔍 Tìm kiếm Sách (User)
@@ -155,14 +155,14 @@
 
 <div align="center">
   <img src="docs/projects/anhduan/muonsach.png" width="700"/>
-  <p><em>Giao diện mượn sách với kiểm tra tồn kho và validation nghiệp vụ</em></p>
+  <p><em>Giao diện quản lý mượn trả sách </em></p>
 </div>
 
 ### 👤 Thông tin cá nhân (User)
 
 <div align="center">
   <img src="docs/projects/anhduan/thongtinnguoidung.png" width="700"/>
-  <p><em>Giao diện mượn sách với kiểm tra tồn kho và validation nghiệp vụ</em></p>
+  <p><em>Giao diện quản lí thông tin cá nhân</em></p>
 </div>
 
 ---
