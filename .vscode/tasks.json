@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Library Server",
+			"type": "shell",
+			"command": "mvn compile exec:java -Dexec.mainClass=com.dainam.library.server.LibraryServer -Dexec.args=\"\"",
+			"group": "test",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
