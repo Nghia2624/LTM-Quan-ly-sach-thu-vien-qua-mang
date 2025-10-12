@@ -158,6 +158,13 @@
   <p><em>Giao diện mượn sách với kiểm tra tồn kho và validation nghiệp vụ</em></p>
 </div>
 
+### 👤 Thông tin cá nhân (User)
+
+<div align="center">
+  <img src="docs/projects/anhduan/thongtinnguoidung.png" width="700"/>
+  <p><em>Giao diện mượn sách với kiểm tra tồn kho và validation nghiệp vụ</em></p>
+</div>
+
 ---
 
 ## 🗄️ HỆ THỐNG DATABASE
